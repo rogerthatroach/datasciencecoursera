@@ -17,3 +17,6 @@ Tidy Data Set |  Clean Data Set |  [TXT Data Set Link](https://github.com/rogert
 Tidy Data Set |  Clean Data Set |  [CSV Data Set Link](https://github.com/rogerthatroach/datasciencecoursera/blob/master/codes/Getting_And_Cleaning_Data_Course_Project/tidyData.csv "tidyData.csv")
 Github Repo | Repo |  [Repo Link](https://github.com/rogerthatroach/datasciencecoursera/tree/master/codes/Getting_And_Cleaning_Data_Course_Project "Click to go to Repo")
 Cookbook | CodeBook.md |  [Cookbook Link](https://github.com/rogerthatroach/datasciencecoursera/blob/master/codes/Getting_And_Cleaning_Data_Course_Project/CodeBook.md "CodeBook.md")
+
+
+### The comments are written in the code file and are self-explanatory
