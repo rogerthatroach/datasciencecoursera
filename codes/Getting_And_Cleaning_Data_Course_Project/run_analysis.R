@@ -57,7 +57,8 @@ tidyData <- final_dt %>%
     group_by(Subject, Activity) %>%
     summarise_all(mean) #summarise(across(everything(), mean))
 
-write.csv(tidyData, "codes/Getting and Cleaning Data Course Project/tidyData.csv", row.names = FALSE)
+write.table(tidyData, "codes/Getting_And_Cleaning_Data_Course_Project/tidyData.txt", row.names = FALSE)
+write.csv(tidyData, "codes/Getting_And_Cleaning_Data_Course_Project/tidyData.csv", row.names = FALSE)
 
 et <- Sys.time()
 print(et - st)
