@@ -13,6 +13,7 @@ Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/g
 Goal | Item | Link to Item
 --- | --- | ---
 Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/rogerthatroach/datasciencecoursera/blob/master/codes/Getting_And_Cleaning_Data_Course_Project/run_analysis.R "run_analysis.R")
-Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/rogerthatroach/datasciencecoursera/blob/master/codes/Getting_And_Cleaning_Data_Course_Project/tidyData.csv "tidyData.csv")
+Tidy Data Set |  Clean Data Set |  [TXT Data Set Link](https://github.com/rogerthatroach/datasciencecoursera/blob/master/codes/Getting_And_Cleaning_Data_Course_Project/tidyData.txt "tidyData.txt")
+Tidy Data Set |  Clean Data Set |  [CSV Data Set Link](https://github.com/rogerthatroach/datasciencecoursera/blob/master/codes/Getting_And_Cleaning_Data_Course_Project/tidyData.csv "tidyData.csv")
 Github Repo | Repo |  [Repo Link](https://github.com/rogerthatroach/datasciencecoursera/tree/master/codes/Getting_And_Cleaning_Data_Course_Project "Click to go to Repo")
 Cookbook | CodeBook.md |  [Cookbook Link](https://github.com/rogerthatroach/datasciencecoursera/blob/master/codes/Getting_And_Cleaning_Data_Course_Project/CodeBook.md "CodeBook.md")
